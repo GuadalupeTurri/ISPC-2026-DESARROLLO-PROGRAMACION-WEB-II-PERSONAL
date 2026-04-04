@@ -1,0 +1,16 @@
+{
+  "id": 5,
+  "nombre": "Samsung Galaxy A32",
+  "descripcion": "Celular con buena resolucion y buena batería para uso diario",
+  "precio": 180000,
+  "stock": 12,
+  "categorias": ["tecnología", "celulares"],
+  "caracteristicas": {
+    "marca": "Samsung",
+    "pantalla": "6.4 pulgadas",
+    "almacenamiento": "128GB",
+    "ram": "4GB",
+    "camara": "64MP",
+    "bateria": "5000 mAh"
+  }
+}
